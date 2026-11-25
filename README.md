@@ -1,7 +1,6 @@
 # Hi, I'm Santiago 👋
 
-**Software Support Engineer · Full Stack · AI Engineering** — Cali, Colombia (UTC−5) · open to remote roles
-
+**Software Support Engineer · Full Stack · AI Engineering** — Cali, Colombia (UTC−5) · 
 I keep software reliable in production. I lead application support for 7 CGIAR platforms used by research centers worldwide (1,650+ tickets, up to 96% first-contact resolution). I debug issues from repro and logs to a shipped fix, and I build AI tooling that makes support scale.
 
 ### What I work with
